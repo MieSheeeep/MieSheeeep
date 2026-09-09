@@ -1,6 +1,4 @@
-<img src="images/svg/header.svg" alt="MieSheeeep animated header" width="100%" />
-
-# Hi, I'm MieSheeeep 👋
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,50:7C3AED,100:06B6D4&height=220&section=header&text=MieSheeeep&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=FZU%20-%20Always%20Learning&descSize=18&descAlignY=55" alt="MieSheeeep header" />
 
 <!-- 修改区 1：把下面 5 行替换成你的真实介绍。 -->
 

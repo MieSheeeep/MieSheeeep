@@ -1,3 +1,5 @@
+<img src="images/svg/header.svg" alt="MieSheeeep animated header" width="100%" />
+
 # Hi, I'm MieSheeeep 👋
 
 <!-- 修改区 1：把下面 5 行替换成你的真实介绍。 -->

@@ -103,8 +103,8 @@
     <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=MieSheeeep&hide_border=true&theme=nightowl" alt="GitHub streak" />
   </p>
   <p align="center">
-    <img height="150" src="https://github-readme-stats.vercel.app/api?username=MieSheeeep&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=nightowl" alt="GitHub statistics" />
-    <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MieSheeeep&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=nightowl" alt="Most used languages" />
+    <img height="150" src="https://github-stats-extended.vercel.app/api?username=MieSheeeep&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=nightowl" alt="GitHub statistics" />
+    <img height="150" src="https://github-stats-extended.vercel.app/api/top-langs/?username=MieSheeeep&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=nightowl" alt="Most used languages" />
   </p>
 
 </details>

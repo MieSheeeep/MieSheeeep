@@ -4,8 +4,8 @@
 
 ### 👾 &nbsp;About Me
 
-&nbsp;&nbsp;&nbsp; 👨‍💻 &nbsp;【请修改：你的职业或目前正在做的项目】<br />
-&nbsp;&nbsp;&nbsp; 🌱 &nbsp;【请修改：你正在学习或关注的技术】<br />
+&nbsp;&nbsp;&nbsp; 👨‍💻 &nbsp;【福州大学】<br />
+&nbsp;&nbsp;&nbsp; 🌱 &nbsp;【AI算法】<br />
 &nbsp;&nbsp;&nbsp; 💓 &nbsp;【请修改：你喜欢解决的问题】<br />
 &nbsp;&nbsp;&nbsp; ✍️ &nbsp;【请修改：你的学习方向或个人特点】<br />
 &nbsp;&nbsp;&nbsp; 🛠️ &nbsp;【请修改：你的开发经验或擅长领域】

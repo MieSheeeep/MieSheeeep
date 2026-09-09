@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:1E3A5F&height=175&section=header&text=MieSheeeep&fontSize=44&fontColor=E2E8F0&animation=fadeIn&fontAlignY=36&desc=FZU%20%C2%B7%20Always%20Learning&descSize=15&descAlignY=57" alt="MieSheeeep header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,50:7C3AED,100:06B6D4&height=220&section=header&text=MieSheeeep&fontSize=60&fontColor=FFFFFF&animation=twinkling&fontAlignY=35&desc=FZU%20-%20Always%20Learning&descSize=18&descAlignY=55" alt="MieSheeeep header" />
 
 <!-- 修改区 1：把下面 5 行替换成你的真实介绍。 -->
 

@@ -34,10 +34,13 @@ FZU大数据大三在读，保研边缘er。
 </p>
 
 <hr />
-
+<h3>
 <details open>
-  <summary><b><h3>💻 &nbsp;Main Tech Stack</h3></b></summary>
+
+  <summary><b>💻 &nbsp;Main Tech Stack</b></summary>
   <br />
+
+</h3>
 
 ### 编程
 - Python：~2000行

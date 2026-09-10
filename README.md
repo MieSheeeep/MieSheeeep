@@ -40,34 +40,17 @@ FZU大数据大三在读，保研边缘er。
   <summary><big><strong>💻 &nbsp;Main Tech Stack</strong></big></summary>
   <br />
 
-#### 编程
-- Python：~6000行
-- C/C++：~3000行
-- Java、HTML、Shell、LaTeX：低于2000行
+#### Core Stack
 
-#### 协作
-- Git
-#### AI技术
-学习与了解
-- CV、NLP、GML
-- Codex、ClaudeCode
+`Python` · `PyTorch` · `NumPy` · `Pandas` · `Git`
 
-#### 数据与开发
-了解掌握
-- Selenium、requests
-- Pandas、NumPy
-- PyTorch
+#### Also Used
 
+`C/C++` · `TypeScript` · `React` · `Electron` · `Selenium` · `Requests`
 
-![Git](https://img.shields.io/badge/Git-F05032.svg?style=flat&logo=git&logoColor=white)&nbsp;
-![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=flat&logo=github&logoColor=white)&nbsp;
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC.svg?style=flat&logo=visualstudiocode&logoColor=white)&nbsp;
-![Python](https://img.shields.io/badge/Python-3776AB.svg?style=flat&logo=python&logoColor=white)&nbsp;
-![C++](https://img.shields.io/badge/C++-00599C.svg?style=flat&logo=cplusplus&logoColor=white)&nbsp;
-![Java](https://img.shields.io/badge/Java-007396.svg?style=flat&logo=openjdk&logoColor=white)&nbsp;
-![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?style=flat&logo=html5&logoColor=white)&nbsp;
-![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?style=flat&logo=css3&logoColor=white)&nbsp;
-![Node.js](https://img.shields.io/badge/Node.js-339933.svg?style=flat&logo=nodedotjs&logoColor=white)
+#### Research Interests
+
+`Computer Vision` · `NLP` · `Graph Machine Learning`
 
 </details>
 

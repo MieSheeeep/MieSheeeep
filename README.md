@@ -8,7 +8,7 @@ FZU大数据大三在读，保研边缘er。
 
 ### 👾 &nbsp;About Me
 
-&nbsp;&nbsp;&nbsp; 👨‍💻 &nbsp;【组织】任职26学年计算机学院学生会主席；[西二在线](https://site.west2.online/)25届AI组成员；也曾参与福州大学服务外包实验室<br />
+&nbsp;&nbsp;&nbsp; 👨‍💻 &nbsp;【组织】[西二在线](https://site.west2.online/)25届AI组成员；也曾参与福州大学服务外包实验室<br />
 
 &nbsp;&nbsp;&nbsp; 📖 &nbsp;【修习方向】完成CV方向课程CS231n。NLP方向尝试复现GPT-2，图学习方向修习过CS224w
 

@@ -34,29 +34,26 @@ FZU大数据大三在读，保研边缘er。
 </p>
 
 <hr />
-<h3>
 <details open>
 
-  <summary><b>💻 &nbsp;Main Tech Stack</b></summary>
+  <summary><big><strong>💻 &nbsp;Main Tech Stack</strong></big></summary>
   <br />
 
-</h3>
-
-### 编程
+#### 编程
 - Python：~2000行
 - C/C++：~1000行
 - Java、HTML、Shell、LaTeX：低于1000行
 
-### 协作
+#### 协作
 - Git
 
-### AI 与底层技术
+#### AI 与底层技术
 学习与了解
 - CV、NLP、GML
 - Vibe Coding
 - Codex、ClaudeCode
 
-### 数据与开发
+#### 数据与开发
 了解掌握
 - Selenium、requests
 - Pandas、NumPy
@@ -76,29 +73,36 @@ FZU大数据大三在读，保研边缘er。
 </details>
 
 <details open>
-  <summary><b>📂 &nbsp;Projects</b></summary>
+  <summary><big><strong>📂 &nbsp;Projects</strong></big></summary>
   <br />
 
+#### Depth-adaptive-rope
+
+#### VIGA-Det 
+
+#### FZUcats 
+
+#### MarkDariy
 
 
 </details>
 
 <details open>
-  <summary><b><h3>🌌 &nbsp;Future Plan<h3></b></summary>
+  <summary><big><strong>🌌 &nbsp;Future Plan</strong></big></summary>
   <br />
 
 🧭 短期计划：稳住GPA，争取保研。尝试联系外校老师，再参与科研。做好当下的学生工作。尝试完善自我，感受生命的活力，成为更成熟、沉稳、有趣且机敏的灵魂。
 
 > What're we living for?
 
-📈 长期计划：无。这对我来说是一个很困难的问题。我还没有想好应该怎么做。
+📈 长期计划：无。这对我来说是一个很困难的问题。我还没有想好应该怎么做。希望健康、平安。
 
 > Where're we going?
 
 </details>
 
 <details>
-  <summary><b><h3>🏆 &nbsp;Pride<h3></b></summary>
+  <summary><big><strong>🏆 &nbsp;Pride</strong></big></summary>
   <br />
 
 - 2026.06 二等奖 中国大学生计算机设计大赛福建赛区
@@ -119,7 +123,7 @@ FZU大数据大三在读，保研边缘er。
 
 
 <details>
-  <summary><b>⚙️ &nbsp;GitHub Statistics</b></summary>
+  <summary><big><strong>⚙️ &nbsp;GitHub Statistics</strong></big></summary>
   <br />
 
   <p align="center">

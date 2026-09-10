@@ -1,18 +1,41 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,50:7C3AED,100:06B6D4&height=220&section=header&text=MieSheeeep&fontSize=60&fontColor=FFFFFF&animation=twinkling&fontAlignY=35&desc=FZU%20-%20Always%20Learning&descSize=18&descAlignY=55" alt="MieSheeeep header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,50:7C3AED,100:06B6D4&height=220&section=header&text=MieSheeeep&fontSize=60&fontColor=FFFFFF&animation=twinkling&fontAlignY=35&desc=FZU%20-%20Always%20Thinking&descSize=18&descAlignY=55" alt="MieSheeeep header" />
 
 <!-- 修改区 1：把下面 5 行替换成你的真实介绍。 -->
 
 # 👋你好，我是王智洋！
 
-菜鸟游荡中
+菜鸟游荡中。
+FZU大数据大三在读，保研边缘er。
 
 ### 👾 &nbsp;About Me
 
-&nbsp;&nbsp;&nbsp; 👨‍💻 &nbsp;【福州大学大三在读，保研边缘er，学习过些许关于cv、nlp相关内容】<br />
-&nbsp;&nbsp;&nbsp; 🌱 &nbsp;【想要继续学习的方向：】<br />
-&nbsp;&nbsp;&nbsp; 💓 &nbsp;【想要在大学期间继续完成的事】<br />
-&nbsp;&nbsp;&nbsp; ✍️ &nbsp;【我爱写点东西，思考一些东西】<br />
-&nbsp;&nbsp;&nbsp; 🛠️ &nbsp;【一些开发经验：】
+&nbsp;&nbsp;&nbsp; 👨‍💻 &nbsp;【为[西二在线25届AI组成员](https://site.west2.online/)】，参与过福州大学服务外包实验室<br />
+
+&nbsp;&nbsp;&nbsp; 📖 &nbsp;【学习过CV方向课程CS231n（[231nNotes](https://github.com/MieSheeeep/CS231n)）。NLP方向尝试复现过GPT-2，图学习方向修习过CS224w（[224wNotes](https://github.com/MieSheeeep/Cs224w)）。】
+
+&nbsp;&nbsp;&nbsp; 🤖 &nbsp;【Ai工具重度使用者，主力Codex，辅以Deepseek Harness】
+
+
+&nbsp;&nbsp;&nbsp; 💓 &nbsp;【喜欢音乐。听歌，作曲，编曲；欢迎来我的[网易云主页](https://music.163.com/#/artist?id=36864235)收听；除此以外还喜欢尝试一些乐器，钢琴、葫芦丝、小提琴。】<br />
+
+&nbsp;&nbsp;&nbsp; ✍️ &nbsp;【我爱偶尔写点东西，写一写自己的心情，记录自己的状态，或与AI讨论。】<br />
+
+> “未经审视的人生，不值一过。”————苏格拉底
+
+&nbsp;&nbsp;&nbsp; 🌱 &nbsp;【想要继续学习的方向：目前还很迷茫】<br />
+
+
+### 🏆&nbsp;Pride
+
+- 2026.06 二等奖 中国大学生计算机设计大赛福建赛区
+- 2026.05 十佳大学生 福州大学计算机学院五四表彰先进个人
+- 2026.04 奖学金 福州大学计算机学院星火奖学金
+- 2025.09 一等奖 全国大学生数学建模竞赛福建赛区本科组
+- 2025.05 Honorable Mention 美国大学生数学建模竞赛
+- 2025.04 三等奖 蓝桥杯软件和信息技术大赛Python程序设计福建赛区
+- ...
+
+
 
 <!-- 修改区 2：可在这里增加邮箱、LinkedIn、博客等链接。 -->
 
@@ -34,6 +57,23 @@
   <summary><b>💻 &nbsp;Main Tech Stack</b></summary>
   <br />
 
+# 技能
+## 编程
+- Python：~2000行
+- C/C++：~1000行
+- Java、HTML、Shell、LATEX：低于1000行
+
+## AI 与底层技术
+学习与了解
+- CV、NLP、GML
+- Vibe Coding
+- Codex、ClaudeCode
+
+## 数据与开发
+了解掌握
+- Selenium、requests
+- Pandas、NumPy
+- PyTorch、NetworkX
 
 
 ![Git](https://img.shields.io/badge/Git-F05032.svg?style=flat&logo=git&logoColor=white)&nbsp;

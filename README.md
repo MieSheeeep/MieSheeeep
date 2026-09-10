@@ -36,7 +36,7 @@ FZU大数据大三在读，保研边缘er。
 <hr />
 
 <details open>
-  <summary><b><h3>💻 &nbsp;Main Tech Stack<h3></b></summary>
+  <summary><b><h3>💻 &nbsp;Main Tech Stack</h3></b></summary>
   <br />
 
 ### 编程
@@ -95,7 +95,7 @@ FZU大数据大三在读，保研边缘er。
 </details>
 
 <details>
-  <summary><b>🏆 &nbsp;Pride</b></summary>
+  <summary><b><h3>🏆 &nbsp;Pride<h3></b></summary>
   <br />
 
 - 2026.06 二等奖 中国大学生计算机设计大赛福建赛区

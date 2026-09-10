@@ -1,6 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,50:7C3AED,100:06B6D4&height=220&section=header&text=MieSheeeep&fontSize=60&fontColor=FFFFFF&animation=twinkling&fontAlignY=35&desc=FZU%20-%20Keep%20Thinking&descSize=18&descAlignY=55" alt="MieSheeeep header" />
-
-<!-- 修改区 1：把下面 5 行替换成你的真实介绍。 -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,50:7C3AED,100:06B6D4&height=220&section=header&text=MieSheeeep&fontSize=60&fontColor=FFFFFF&animation=blinking&fontAlignY=35&desc=FZU%20-%20Keep%20Thinking&descSize=18&descAlignY=55" alt="MieSheeeep header" />
 
 # 👋你好，我是王智洋！
 
@@ -10,17 +8,17 @@ FZU大数据大三在读，保研边缘er。
 
 ### 👾 &nbsp;About Me
 
-&nbsp;&nbsp;&nbsp; 👨‍💻 &nbsp;【组织】为[西二在线](https://site.west2.online/)25届AI组成员，参与过福州大学服务外包实验室<br />
+&nbsp;&nbsp;&nbsp; 👨‍💻 &nbsp;【组织】任职26学年计算机学院学生会主席；[西二在线](https://site.west2.online/)25届AI组成员；也曾参与福州大学服务外包实验室<br />
 
-&nbsp;&nbsp;&nbsp; 📖 &nbsp;【修习方向】完成CV方向课程CS231n。NLP方向尝试复现GPT-2，图学习方向修习过CS224w  
+&nbsp;&nbsp;&nbsp; 📖 &nbsp;【修习方向】完成CV方向课程CS231n。NLP方向尝试复现GPT-2，图学习方向修习过CS224w
+
+&nbsp;&nbsp;&nbsp; 🌱 &nbsp;【想要继续学习的方向】目前还很迷茫<br />
 
 &nbsp;&nbsp;&nbsp; 🤖 &nbsp;【工具】Ai重度使用者，主力Codex
 
 &nbsp;&nbsp;&nbsp; 💓 &nbsp;【爱好】喜欢音乐：听歌，作曲，编曲；欢迎来我的[网易云](https://music.163.com/#/artist?id=36864235)收听；除此以外还喜欢尝试一些乐器，钢琴、葫芦丝、小提琴。运动较为喜欢乒乓球。也爱偶尔写日记，写一写自己的心情，记录自己的状态，或与AI讨论。<br />
 
-> “未经审视的人生，不值一过。”————苏格拉底
-
-&nbsp;&nbsp;&nbsp; 🌱 &nbsp;【想要继续学习的方向】目前还很迷茫<br />
+    > “未经审视的人生，不值一过。”————苏格拉底
 
 
 <!-- 修改区 2：可在这里增加邮箱、LinkedIn、博客等链接。 -->
@@ -76,10 +74,18 @@ FZU大数据大三在读，保研边缘er。
 </details>
 
 <details open>
+  <summary><b>📂 &nbsp;Projects</b></summary>
+  <br />
+
+
+
+</details>
+
+<details open>
   <summary><b>🌌 &nbsp;Future Plan</b></summary>
   <br />
 
-🧭 短期计划：稳住GPA，争取保研。尝试联系外校老师，再参与科研。做好当下的学生会工作。尝试完善自我，感受生命的活力，成为更成熟、沉稳、有趣且机敏的灵魂。
+🧭 短期计划：稳住GPA，争取保研。尝试联系外校老师，再参与科研。做好当下的学生工作。尝试完善自我，感受生命的活力，成为更成熟、沉稳、有趣且机敏的灵魂。
 
 > What're we living for?
 

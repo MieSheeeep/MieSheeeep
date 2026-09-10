@@ -36,7 +36,7 @@ FZU大数据大三在读，保研边缘er。
 <hr />
 
 <details open>
-  <summary><b>💻 &nbsp;Main Tech Stack</b></summary>
+  <summary><b><h1>💻 &nbsp;Main Tech Stack<h1></b></summary>
   <br />
 
 

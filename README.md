@@ -52,6 +52,7 @@ FZU大数据大三在读，保研边缘er。
 - 2025.06 三等奖 “中国电机工程学会杯”全国大学生电工数学建模
 - 2025.05 Honorable Mention 美国大学生数学建模竞赛
 - 2025.04 三等奖 蓝桥杯软件和信息技术大赛Python程序设计福建赛区
+
 – 各类奖学金 累计三个学期获评一、二、三等奖学金
 
 </details>
@@ -60,23 +61,23 @@ FZU大数据大三在读，保研边缘er。
   <summary><b>💻 &nbsp;Main Tech Stack</b></summary>
   <br />
 
-##### 技能
-###### 编程
+
+编程
 - Python：~2000行
 - C/C++：~1000行
 - Java、HTML、Shell、LaTeX：低于1000行
 
-###### 协作
+协作
 - Git
 
-###### AI 与底层技术
-学习与了解
+AI 与底层技术
+###### 学习与了解
 - CV、NLP、GML
 - Vibe Coding
 - Codex、ClaudeCode
 
-###### 数据与开发
-了解掌握
+数据与开发
+###### 了解掌握
 - Selenium、requests
 - Pandas、NumPy
 - PyTorch、NetworkX

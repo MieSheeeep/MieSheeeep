@@ -5,13 +5,14 @@
 # 👋你好，我是王智洋！
 
 菜鸟游荡中。
+
 FZU大数据大三在读，保研边缘er。
 
 ### 👾 &nbsp;About Me
 
 &nbsp;&nbsp;&nbsp; 👨‍💻 &nbsp;【组织】为[西二在线](https://site.west2.online/)25届AI组成员，参与过福州大学服务外包实验室<br />
 
-&nbsp;&nbsp;&nbsp; 📖 &nbsp;【修习方向】完成CV方向课程CS231n。NLP方向尝试复现GPT-2，图学习方向修习过CS224w
+&nbsp;&nbsp;&nbsp; 📖 &nbsp;【修习方向】完成CV方向课程CS231n。NLP方向尝试复现GPT-2，图学习方向修习过CS224w  
 
 &nbsp;&nbsp;&nbsp; 🤖 &nbsp;【工具】Ai重度使用者，主力Codex
 
@@ -36,48 +37,27 @@ FZU大数据大三在读，保研边缘er。
 
 <hr />
 
-
-<details>
-  <summary><b>🏆 &nbsp;Pride</b></summary>
-  <br />
-
-- 2026.06 二等奖 中国大学生计算机设计大赛福建赛区
-- 2026.06 三等奖 中国大学生服务外包创新创业大赛东部区域赛
-- 2026.05 十佳大学生 福州大学计算机学院五四表彰先进个人
-- 2026.05 三好学生 福州大学五四表彰先进个人
-- 2026.04 奖学金 福州大学计算机学院星火奖学金
-- 2025.09 一等奖 全国大学生数学建模竞赛福建赛区本科组
-- 2025.06 二等奖 中国大学生计算机设计大赛福建赛区
-- 2025.06 三等奖 中国大学生服务外包创新创业大赛东部区域赛
-- 2025.06 三等奖 “中国电机工程学会杯”全国大学生电工数学建模
-- 2025.05 Honorable Mention 美国大学生数学建模竞赛
-- 2025.04 三等奖 蓝桥杯软件和信息技术大赛Python程序设计福建赛区
-
-– 各类奖学金 累计三个学期获评一、二、三等奖学金
-
-</details>
-
-<details>
+<details open>
   <summary><b>💻 &nbsp;Main Tech Stack</b></summary>
   <br />
 
 
-编程
+### 编程
 - Python：~2000行
 - C/C++：~1000行
 - Java、HTML、Shell、LaTeX：低于1000行
 
-协作
+### 协作
 - Git
 
-AI 与底层技术
-###### 学习与了解
+### AI 与底层技术
+学习与了解
 - CV、NLP、GML
 - Vibe Coding
 - Codex、ClaudeCode
 
-数据与开发
-###### 了解掌握
+### 数据与开发
+了解掌握
 - Selenium、requests
 - Pandas、NumPy
 - PyTorch、NetworkX
@@ -95,7 +75,7 @@ AI 与底层技术
 
 </details>
 
-<details>
+<details open>
   <summary><b>🌌 &nbsp;Future Plan</b></summary>
   <br />
 
@@ -108,6 +88,27 @@ AI 与底层技术
 > Where're we going?
 
 </details>
+
+<details>
+  <summary><b>🏆 &nbsp;Pride</b></summary>
+  <br />
+
+- 2026.06 二等奖 中国大学生计算机设计大赛福建赛区
+- 2026.06 三等奖 中国大学生服务外包创新创业大赛东部区域赛
+- 2026.05 十佳大学生 福州大学计算机学院五四表彰先进个人
+- 2026.05 三好学生 福州大学五四表彰先进个人
+- 2026.04 奖学金 福州大学计算机学院星火奖学金
+- 2025.09 一等奖 全国大学生数学建模竞赛福建赛区本科组
+- 2025.06 二等奖 中国大学生计算机设计大赛福建赛区
+- 2025.06 三等奖 中国大学生服务外包创新创业大赛东部区域赛
+- 2025.06 三等奖 “中国电机工程学会杯”全国大学生电工数学建模
+- 2025.05 Honorable Mention 美国大学生数学建模竞赛
+- 2025.04 三等奖 蓝桥杯软件和信息技术大赛Python程序设计福建赛区
+
+    – 各类奖学金 累计三个学期获评一、二、三等奖学金
+
+</details>
+
 
 <details>
   <summary><b>⚙️ &nbsp;GitHub Statistics</b></summary>

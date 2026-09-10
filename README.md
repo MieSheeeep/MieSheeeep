@@ -36,9 +36,8 @@ FZU大数据大三在读，保研边缘er。
 <hr />
 
 <details open>
-  <summary><b><h1>💻 &nbsp;Main Tech Stack<h1></b></summary>
+  <summary><b><h3>💻 &nbsp;Main Tech Stack<h3></b></summary>
   <br />
-
 
 ### 编程
 - Python：~2000行
@@ -82,7 +81,7 @@ FZU大数据大三在读，保研边缘er。
 </details>
 
 <details open>
-  <summary><b>🌌 &nbsp;Future Plan</b></summary>
+  <summary><b><h3>🌌 &nbsp;Future Plan<h3></b></summary>
   <br />
 
 🧭 短期计划：稳住GPA，争取保研。尝试联系外校老师，再参与科研。做好当下的学生工作。尝试完善自我，感受生命的活力，成为更成熟、沉稳、有趣且机敏的灵魂。

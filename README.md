@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,50:7C3AED,100:06B6D4&height=220&section=header&text=MieSheeeep&fontSize=60&fontColor=FFFFFF&animation=blinking&fontAlignY=35&desc=FZU%20-%20Keep%20Thinking&descSize=18&descAlignY=55" alt="MieSheeeep header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,50:7C3AED,100:06B6D4&height=200&section=header&text=MieSheeeep&fontSize=60&fontColor=FFFFFF&animation=twinkling&fontAlignY=35&desc=%20Keep%20Thinking&descSize=18&descAlignY=55" alt="MieSheeeep header" />
 
 # 👋你好，我是王智洋！
 
@@ -29,6 +29,7 @@ FZU大数据大三在读，保研边缘er。
 
   </a>
   <a href="mailto:miemiesheeeep@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://blog.csdn.net/JustBlurred"><img src="https://img.shields.io/badge/CSDN-JustBlurred-FC5531?style=for-the-badge&logo=csdn&logoColor=white" alt="CSDN" /></a>
   <!-- 示例：<a href="mailto:3224782312@qq.com"><img src="https://img.shields.io/badge/Gmail-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a> -->
   <!-- 示例：<a href="你的 LinkedIn 地址"><img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> -->
 </p>
@@ -40,24 +41,22 @@ FZU大数据大三在读，保研边缘er。
   <br />
 
 #### 编程
-- Python：~2000行
-- C/C++：~1000行
-- Java、HTML、Shell、LaTeX：低于1000行
+- Python：~6000行
+- C/C++：~3000行
+- Java、HTML、Shell、LaTeX：低于2000行
 
 #### 协作
 - Git
-
-#### AI 与底层技术
+#### AI技术
 学习与了解
 - CV、NLP、GML
-- Vibe Coding
 - Codex、ClaudeCode
 
 #### 数据与开发
 了解掌握
 - Selenium、requests
 - Pandas、NumPy
-- PyTorch、NetworkX
+- PyTorch
 
 
 ![Git](https://img.shields.io/badge/Git-F05032.svg?style=flat&logo=git&logoColor=white)&nbsp;
@@ -76,13 +75,30 @@ FZU大数据大三在读，保研边缘er。
   <summary><big><strong>📂 &nbsp;Projects</strong></big></summary>
   <br />
 
-#### Depth-adaptive-rope
+### 结束
 
-#### VIGA-Det 
+#### [Depth-Adaptive RoPE](https://github.com/MieSheeeep/depth-adaptive-rope)
 
-#### FZUcats 
+一次偶然的探索。与Claude探索了Transformer各层自适应RoPE频率分布。有一些无用但有趣的结果
+<br />
+`Python` · `PyTorch` · `nanoGPT` · `Matplotlib`
 
-#### MarkDariy
+#### [VIGA-Det](https://github.com/S1exy/VIGA-Det)
+
+服外大赛项目。我们基于YOLO了增加了一些自研模块以及Manba，训练了一个面向无人机视角RGB-IR双模态的车辆检测模型。在其中主要承担了基线训练对比测试，最终文档书写工作。也参与了模型模块构建的想法提出。<br />
+`Python` · `PyTorch` · `YOLOv11` 
+
+### 未实现
+
+#### [FZUcats · 福大猫谱](https://github.com/S1exy/FZUcats)
+
+偶然刷到了其它学校的猫谱，发现有开源，于是尝试自行部署，测试成功。但碍于经费，没能在微信正式发布。<br />
+`微信小程序` · `JavaScript` · `TypeScript` · `云函数`
+
+#### [MarkDiary](https://github.com/MieSheeeep/MarkDairy)
+
+一个Idea，源于我与Ai的讨论和日常的记录习惯。希望构建一个可随时迁移的md文档日记应用。目前尚未完成开发。<br />
+`Electron` · `React` · `Vibe Coding` 
 
 
 </details>

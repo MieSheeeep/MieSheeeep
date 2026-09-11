@@ -12,14 +12,13 @@ FZU大数据大三在读，保研边缘er。
 
 &nbsp;&nbsp;&nbsp; 📖 &nbsp;【修习方向】完成CV方向课程CS231n。NLP方向尝试复现GPT-2，图学习方向修习过CS224w
 
-&nbsp;&nbsp;&nbsp; 🌱 &nbsp;【想要继续学习的方向】目前还很迷茫<br />
+&nbsp;&nbsp;&nbsp; 🌱 &nbsp;【想要继续学习的方向】目前还很迷茫。好多未实现的，好多被AI威胁着的，什么是好的，什么是坏的，我越来越迷失了。<br />
 
-&nbsp;&nbsp;&nbsp; 🤖 &nbsp;【工具】Ai重度使用者，主力Codex
+&nbsp;&nbsp;&nbsp; 🤖 &nbsp;【工具】Ai重度使用者，编程主力Codex，喜欢和Claude对话。
 
-&nbsp;&nbsp;&nbsp; 💓 &nbsp;【爱好】喜欢音乐：听歌，作编曲；欢迎来我的[网易云](https://music.163.com/#/artist?id=36864235)收听；除此以外还喜欢尝试一些乐器，钢琴、葫芦丝、小提琴。运动较为喜欢乒乓球。也爱偶尔写日记，写一写自己的心情，记录自己的状态，或与AI讨论。<br />
+&nbsp;&nbsp;&nbsp; 💓 &nbsp;【爱好】喜欢音乐：听歌，作编曲，欢迎来我的[网易云](https://music.163.com/#/artist?id=36864235)收听；除此以外还喜欢尝试一些乐器，钢琴、葫芦丝、小提琴。运动上喜欢乒乓球（老人运动）。欲尝试一切没有体验过的事物。也爱偶尔写日记，写一写自己的心情，记录自己的状态，或与AI讨论。<br />
 
 > “未经审视的人生，不值一过。”————苏格拉底
-
 
 <!-- 修改区 2：可在这里增加邮箱、LinkedIn、博客等链接。 -->
 
@@ -46,9 +45,9 @@ FZU大数据大三在读，保研边缘er。
 
 #### Also Used
 
-`C/C++` · `TypeScript` · `React` · `Electron` · `Selenium` · `Requests`
+`C/C++` · `Selenium` ·  `Matplotlib` ·  `Requests`
 
-#### Research Interests
+#### Research
 
 `Computer Vision` · `NLP` · `Graph Machine Learning`
 
